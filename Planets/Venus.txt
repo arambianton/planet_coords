@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: April 12, 2021                Venus                           299 / 2
+ 
+ PHYSICAL DATA (updated 2020-Oct-19):
+
+ Mass (kg)  =  48.685E+23
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X =-5.796337489258847E+07 Y = 9.016429848070051E+07 Z = 4.572533057606202E+06
+ VX=-2.975544355935628E+01 VY=-1.883668422469018E+01 VZ= 1.458788365950004E+00
+ LT= 3.578671991584812E+02 RG= 1.072858872732966E+08 RR= 3.075881662594798E-01
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

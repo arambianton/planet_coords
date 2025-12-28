@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: April 12, 2021             Mercury                            199 / 1
+
+ PHYSICAL DATA (updated 2024-Mar-04):
+
+ Mass (kg) = 3.302E+23
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X = 5.208473598310029E+07 Y =-2.216987214994971E+07 Z =-6.575387482976600E+06
+ VX= 8.795006096389708E+00 VY= 4.734705691143490E+01 VZ= 3.063969712704697E+00
+ LT= 1.900893563775556E+02 RG= 5.698735538806538E+07 RR=-1.073465178080436E+01
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: April 12, 2021                 Earth                              399
+ 
+ GEOPHYSICAL PROPERTIES (revised May 9, 2022):
+
+ Mass (kg) = 5.97219E+24
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X =-1.221022235437845E+08 Y = 8.357219198588185E+07 Z = 2.184689619040117E+04
+ VX=-1.747236171923171E+01 VY=-2.456384746581094E+01 VZ= 2.315042777819798E-03
+ LT= 4.935538698628896E+02 RG= 1.479637278016078E+08 RR= 5.444556711854245E-01
+$$EOE
+
+*******************************************************************************
+
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

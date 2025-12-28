@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "macOS",
+      "compilerPath": "/usr/bin/g++",   // путь к g++
+      "intelliSenseMode": "gcc-x64",                // или gcc-arm64
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "includePath": [
+        "${workspaceFolder}/**"                     // своего обычно достаточно
+      ]
+    }
+  ],
+  "version": 4
+}

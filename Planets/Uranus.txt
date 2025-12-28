@@ -1,0 +1,41 @@
+*******************************************************************************
+
+ Revised: January 29, 2025             Uranus                               799
+ 
+ PHYSICAL DATA:
+
+ Mass (kg) = 86.813E+24
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X = 1.638656853256697E+09 Y = 2.420366070606513E+09 Z =-1.223987798976004E+07
+ VX=-5.689116579164089E+00 VY= 3.500426788679482E+00 VZ= 8.678084353556947E-02
+ LT= 9.749843996777739E+03 RG= 2.922929696910542E+09 RR=-2.912344512760864E-01
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

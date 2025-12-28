@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: April 12, 2021               Jupiter                              599
+ 
+ PHYSICAL DATA (revised 2025-Jan-30):
+
+ Mass (kg)  = 18.9819E+26
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X = 1.076532286234041E+08 Y = 7.540012775774276E+08 Z =-5.535842496521890E+06
+ VX=-1.308337586784934E+01 VY= 2.469171621735399E+00 VZ= 2.825320169601879E-01
+ LT= 2.540650200854889E+03 RG= 7.616677686324807E+08 RR= 5.930759705689438E-01
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

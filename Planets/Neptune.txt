@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: April 22, 2021              Neptune                               899
+ 
+ PHYSICAL DATA (update 2021-May-03):
+
+ Mass (kg) = 102.409E+24
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X = 4.469373685910328E+09 Y =-7.482636639621742E+07 Z =-1.014603540999704E+08
+ VX= 5.481032750925916E-02 VY= 5.467236641498364E+00 VZ=-1.131414143354377E-01
+ LT= 1.491415552253844E+04 RG= 4.471151343096074E+09 RR=-3.414025537279760E-02
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

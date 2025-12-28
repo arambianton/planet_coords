@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: June 21, 2016                 Mars                            499 / 4
+ 
+ PHYSICAL DATA (updated 2019-Oct-29):
+
+ Mass (kg) = 6.4171E+23
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X =-1.555483046537528E+08 Y = 1.908642459477738E+08 Z = 7.836300721089959E+06
+ VX=-1.792449322690375E+01 VY=-1.316295268944415E+01 VZ= 1.639303940529802E-01
+ LT= 8.217183623021568E+02 RG= 2.463449676182981E+08 RR= 1.124732135791033E+00
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************

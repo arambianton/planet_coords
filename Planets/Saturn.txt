@@ -1,0 +1,43 @@
+*******************************************************************************
+
+ Revised: January 26, 2022             Saturn                               699
+
+ PHYSICAL DATA:
+ 
+ Mass (kg) = 5.6834E+26
+
+*******************************************************************************
+
+$$SOE
+ A.D. 2025-Feb-14 00:00:00.0000 TDB 
+ X = 1.418757840343978E+09 Y =-2.286167002448863E+08 Z =-5.251304886014777E+07
+ VX= 9.991690627771603E-01 VY= 9.516051403848394E+00 VZ=-2.050117121135120E-01
+ LT= 4.796713188529356E+03 RG= 1.438018437110233E+09 RR=-5.195924616312150E-01
+$$EOE
+
+*******************************************************************************
+ 
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+*******************************************************************************
